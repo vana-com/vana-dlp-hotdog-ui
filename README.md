@@ -1,3 +1,6 @@
+Hot Dog DLP
+<img width="1285" alt="Screenshot 2024-06-25 at 5 54 04 PM" src="https://github.com/vana-com/vana-hot-dog-dlp-ui/assets/16907027/f079d6f3-e421-4dbc-b290-3a2ba3116dbd">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
