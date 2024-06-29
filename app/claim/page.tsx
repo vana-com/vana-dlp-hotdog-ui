@@ -231,13 +231,6 @@ export default function Page() {
                 {uploadState === "done" ? "Congratulations" : "Upload your hotdog photo"}
               </Title>
 
-              {uploadState === "done" && (
-                <Text>
-                  The file has been validated successfully. You are eligible to
-                  claim your rewards
-                </Text>
-              )}
-
               {uploadState === "initial" && !isDropboxConnected && (
                 <ConnectStep />
               )}
