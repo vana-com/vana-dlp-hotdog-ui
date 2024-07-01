@@ -39,7 +39,7 @@ export default function Page() {
               </Text>
               <Box>
                 <Stack gap={0} align="center" p="lg" bg="brand-5">
-                  <Title order={5}>15,000 $GPTDAT</Title>
+                  <Title order={5}>15,000 $HOTDOG</Title>
                   {/* <Text>available for claim</Text> */}
                 </Stack>
               </Box>
