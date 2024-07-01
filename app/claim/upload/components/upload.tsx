@@ -13,8 +13,7 @@ export const UploadState = ({
   return (
     <Stack gap={0}>
       <Dropzone
-        onDrop={(files) => onSetFile(files[0])}
-        accept={["image/jpeg", "image/png"]}
+        onDrop={(files) => files[0] && onSetFile(files[0])}
         maxFiles={1}
         bg="brand-5"
       >

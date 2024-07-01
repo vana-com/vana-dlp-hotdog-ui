@@ -11,9 +11,9 @@ import "./globals.css";
 import Providers from "./providers";
 
 export const metadata: Metadata = {
-  title: "GPT DATA DAO",
+  title: "HOTDOG DLP",
   description:
-    "Join with your chatGPT account and receive governance rights. Vote to sell the data to other AI companies, or vote to delete it if OpenAI open sources GPT-4",
+    "Join with a hotdog and receive governance rights. Vote to sell the data to AI companies, or vote to delete it if Big Hotdog goes open source.",
 };
 
 export default function RootLayout({

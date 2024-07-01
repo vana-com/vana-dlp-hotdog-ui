@@ -92,7 +92,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({
                   <Link href="/">
                     <Title order={5} ff="monospace">
                       <Badge color="red" variant="light" size="xxl">
-                        hot dog DLP
+                        hotdog DLP
                       </Badge>
                     </Title>
                   </Link>
